@@ -1,0 +1,4 @@
+.github/
+
+# Ignore generated files
+package-lock.json
